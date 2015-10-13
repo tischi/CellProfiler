@@ -1,7 +1,7 @@
 import os
 import urllib
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 prokaryote = '{}/prokaryote-{}.jar'.format(os.path.abspath("imagej/jars"), VERSION)
 
